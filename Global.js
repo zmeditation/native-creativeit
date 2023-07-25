@@ -1,0 +1,22 @@
+module.exports = {
+    API_KEY: 'qHspMoVB1HKdHRRVJoDTqz8CNjjepVOi3WvWympAWIUGpP4ExF4O3VMgFs4',
+    GOOGLE_API_KEY: 'AIzaSyC9rQPSIhhy1YZCK8pqBXH6UNg96Kb8I8g',
+    BASE_URL: 'http://192.168.8.103/ilebanese/api/',
+    APP_NAME: 'iLebanese',
+    APP_TITLE: 'ILEBANESE',
+    ABOUT_US: 'Network with Lebanese expatriates around the world',
+    INVITE: 'Members (Select & Friend Request)',
+    DURATION: 5000,
+    COLOR: {
+      ORANGE: '#C50',
+      DARKBLUE: '#0F3274',
+      LIGHTBLUE: '#6EA8DA',
+      DARKGRAY: '#999',
+      RED: '#be1714',
+      GREEN: '#007900',
+      WHITE: '#EEEEEE',
+      TRANRED: 'rgba(190, 23, 20, 0.5)',
+      TRANGREEN: 'rgba(0, 121, 0, 0.7)',
+      LIGHTGREEN: '#90EE90',
+    },
+  };
